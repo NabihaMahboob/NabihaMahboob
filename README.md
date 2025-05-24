@@ -1,5 +1,6 @@
-## Hi there 👋
-Welcome to my Github!
+## Hi there 👋, I'm Nabiha!
+I am currently a Business Administration and Computer Science Student at the University of Windsor.
+
 
 <!--
 **NabihaMahboob/NabihaMahboob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
